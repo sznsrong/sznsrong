@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sznsrong
-- 👀 I’m interested in motion control ,NC, ehtercat, opencv , 3D, CAD and so on.
+- 👀 I’m interested in motion control ,NC, ethercat, opencv , 3D, CAD and so on.
 - 🌱 I’m currently learning nodejs, angular, express, websoket and so on.
 - 💞️ I’m looking to collaborate on NC,motion control,ehercat,bla bla.
-- 📫 How to reach me ...
-- 😄 Pronouns: rongsiji@co-trust.com
+- 📫 How to reach me : little_foot@sina.com
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
